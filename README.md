@@ -8,7 +8,7 @@
 ## 🛠 技術スタック・スキル
 
 - **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / CASL2  
-- **環境・ツール**：Visual Studio Code / GitHub /WordPress
+- **環境・ツール**：Visual Studio Code / GitHub / WordPress
 - **保有資格**：基本情報技術者試験 / 英検準一級  
 
 ---
