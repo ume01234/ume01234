@@ -1,16 +1,69 @@
-## Hi there 👋
+# 橋爪 陸人 | Rikuto Hashizume
 
-<!--
-**ume01234/ume01234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+筑波大学情報学群メディア創成学類3年の学生エンジニアです。  
+機械学習やAIエンジニアとして、新しい価値を生み出すことを目指しています！
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 技術スタック・スキル
+
+- **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / CASL2  
+- **環境・ツール**：Visual Studio Code / GitHub  
+- **保有資格**：基本情報技術者試験 / 英検準一級  
+
+---
+
+## 📂 主な開発経験・実施プロジェクト
+
+### ✅ 結果可視化機能付きアンケートフォーム（2024年12月・個人開発）
+- フロントエンド：HTML / CSS  
+- バックエンド：Ruby / SQLite3  
+- 投票結果をGoogle Chart Toolを用いて円グラフや棒グラフで可視化  
+
+### ✅ 映画鑑賞記録システム（2024年12月・個人開発）
+- 鑑賞記録を保存・検索・一覧表示できるシステム  
+- フロントエンド：HTML / CSS  
+- バックエンド：SQL  
+
+### ✅ 人事データ分析による事業提案（2024年1月・他大学講義での成果物）
+- Pythonで仮想企業の人事データ（CSV）を分析  
+- EDAに基づく課題発見  
+- LightGBMなど複数モデルで特徴量エンジニアリング・事業提案  
+- 成果をプレゼン形式で発表  
+
+### ✅ Rによる統計分析（2024年実施）
+
+---
+
+## 🔍 興味・関心分野
+
+- Pythonを用いた機械学習・データサイエンス  
+- 医療データ × データサイエンス  
+- 行動経済学  
+- メディアアート  
+- AIを活用したアプリ開発  
+
+---
+
+## 🚀 現在の活動
+
+- DeepLearningの学習（E資格対象講座受講中）  
+- フリーランスとしてコーポレートサイトを開発中  
+- 大学で機械学習・画像分類の実験に取り組み中  
+- 応用情報技術者試験（4月受験済）合格発表待ち  
+
+---
+
+## 🎵 趣味・好きなこと
+
+- 音楽鑑賞・演奏  
+- 読書（特にミステリー小説）  
+- スポーツ（サッカー / テニス / バレーボール）  
+
+---
+
+## 📫 連絡先
+
+- GitHub: [ume01234](https://github.com/ume01234)  
+- Gmail: rikuto20031012@gmail.com
+
