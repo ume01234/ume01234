@@ -8,7 +8,7 @@
 ## 🛠 技術スタック・スキル
 
 - **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / CASL2  
-- **環境・ツール**：Visual Studio Code / GitHub  
+- **環境・ツール**：Visual Studio Code / GitHub /WordPress
 - **保有資格**：基本情報技術者試験 / 英検準一級  
 
 ---
@@ -28,8 +28,8 @@
 ### ✅ 人事データ分析による事業提案（2024年1月・他大学講義での成果物）
 - Pythonで仮想企業の人事データ（CSV）を分析  
 - EDAに基づく課題発見  
-- LightGBMなど複数モデルで特徴量エンジニアリング・事業提案  
-- 成果をプレゼン形式で発表  
+- LightGBM,他複数モデルで特徴量エンジニアリング・事業提案  
+- 成果をプレゼン形式で発表 
 
 ### ✅ Rによる統計分析（2024年実施）
 
