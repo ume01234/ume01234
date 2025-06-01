@@ -8,7 +8,7 @@
 ## 🛠 技術スタック・スキル
 
 - **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / CASL2  
-- **環境・ツール**：Visual Studio Code / GitHub / WordPress
+- **環境・ツール**：Visual Studio Code / GitHub / WordPress / Docker
 - **保有資格**：基本情報技術者試験 / 英検準一級  
 
 ---
@@ -29,7 +29,13 @@
 - Pythonで仮想企業の人事データ（CSV）を分析  
 - EDAに基づく課題発見  
 - LightGBM,他複数モデルで特徴量エンジニアリング・事業提案  
-- 成果をプレゼン形式で発表 
+- 成果をプレゼン形式で提出
+
+### ✅ カフェイン影響予測アプリ　Track Job Hackathon(2025年5月31日~6月1日)
+- 杯数や種類を指定して入力、カフェインが抜けるまでの時間を計算
+- TrackJob主催の二日間のハッカソンでのプロダクト
+- バックエンド：Javascript
+- フロントエンド：HTML / CSS
 
 ### ✅ Rによる統計分析（2024年実施）
 
