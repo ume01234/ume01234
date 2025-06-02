@@ -1,11 +1,11 @@
-# 橋爪 陸人 | Rikuto Hashizume
+# Rikuto Hashizume | 橋爪 陸人
 
 筑波大学情報学群メディア創成学類3年の学生エンジニアです。  
 機械学習やAIエンジニアとして、新しい価値を生み出すことを目指しています！
 
 ---
 
-## 🛠 技術スタック・スキル
+## 技術スタック・スキル
 
 - **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / CASL2  
 - **環境・ツール**：Visual Studio Code / GitHub / WordPress / Docker
@@ -72,7 +72,5 @@
 ---
 
 ## 📫 連絡先
-
-- GitHub: [ume01234](https://github.com/ume01234)  
 - Gmail: rikuto20031012@gmail.com
 
