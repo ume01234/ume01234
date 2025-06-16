@@ -1,5 +1,7 @@
 # Rikuto Hashizume | 橋爪 陸人
 
+> [View English version](./README.en.md)
+
 筑波大学情報学群メディア創成学類3年の学生エンジニアです。  
 機械学習やAIエンジニアとして、新しい価値を生み出すことを目指しています！
 
