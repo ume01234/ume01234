@@ -8,56 +8,56 @@ My goal is to create new value as a machine learning and AI engineer!
 ## ✔︎ Technical Stack & Skills
 
 - **Languages**: Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / CASL2  
-- **Tools & Environments**: Visual Studio Code / GitHub / WordPress / Docker  
+- **Tools & Environments**: Visual Studio Code / Cursor / GitHub / WordPress / Google Colab
 - **Certifications**: Fundamental Information Technology Engineer / Eiken Grade Pre-1  
 
 ---
 
 ## ✔︎ Major Development Experience & Projects
 
-### ○ Survey Form with Result Visualization (Dec 2024, Personal Project)
-- Visualized voting results using Google Chart Tool (pie charts, bar graphs)
-- Frontend: HTML / CSS  
-- Backend: Ruby / SQLite3
+### ○ Business Proposal Based on HR Data Analysis (Jan 2024 – University Project)
+- Built a turnover prediction model (e.g., LightGBM) using simulated HR data (achieved 85% accuracy)
+- Conducted EDA to identify issues, created explanatory slides, and simulated the impact of proposed actions
+- Compared multiple models and applied feature engineering for a final business proposal presentation
+- Tech Used: Python / Google Colab / Pytorch / LightGBM
 
-### ○ Movie Viewing Record System (Dec 2024, Personal Project)
-- System to save, search, and display viewing history  
-- Frontend: HTML / CSS  
-- Backend: SQL
+### ○ Caffeine Impact Prediction App – Track Job Hackathon (May 31 – June 1, 2025)
+- Calculated the time required for caffeine to leave the body based on drink type and volume
+- Led the team as project leader and developed the front-end
+- Tech Used: JavaScript / HTML / CSS
 
-### ○ Business Proposal via HR Data Analysis (Jan 2024, University Coursework)
-- Analyzed HR data (CSV) of a virtual company using Python  
-- Identified issues through EDA  
-- Performed feature engineering and modeling with LightGBM and others  
-- Presented findings as a business proposal
+### ○ Fine-Tuning Image Captioning Models (Apr – Aug 2025)
+- Improved captioning accuracy for artwork images by fine-tuning pretrained models such as GiT and BLIP with LoRA 
+- Achieved BERTScore of 0.88 (target: 0.85)  
+- Tech Used: Python / Google Colab / HuggingFace Transformers / LoRA / Prompt Tuning
 
-### ○ Caffeine Impact Prediction App (May 31 – June 1, 2025, Track Job Hackathon)
-- Users input type and amount of drink to estimate time for caffeine to wear off  
-- Built as a 2-day hackathon project organized by TrackJob  
-- Technologies: JavaScript / HTML / CSS
+### ○ Environmental Awareness App Using Gemini API (2025 – Personal Project)
+- Developed an AI chat app that provides garbage collection dates and sorting rules based on user-inputted location  
+- Tech Used: Python / SQL / Gemini API / Flask
 
-### ○ Statistical Analysis Using R (2024, Coursework)
+### ○ Corporate Website Development Support (2025 – Volunteer Work)
+- Built a WordPress-based, SEO-optimized corporate site (to be published in summer)
+- Handled server rental, domain migration, and email integration
+- Tech Used: WordPress / HTML / CSS / JavaScript / Swiper / Google Analytics
 
 ---
 
 ## ✔︎ Areas of Interest
 
-- Machine learning & data science using Python  
-- Medical data × data science  
-- Behavioral economics  
-- Media art  
-- App development with AI agents  
-- Corporate DX strategy
+- Machine Learning and Data Science using Python
+- Deep Learning applications for medical data
+- Behavioral Economics
+- Media Art
+- Corporate DX (Digital Transformation) Strategy
 
 ---
 
 ## ✔︎ Current Activities
 
-- Studying Deep Learning (taking E資格-approved courses)  
-- Developing a freelance corporate website with contact form (to be published this summer)  
-- Conducting machine learning and image classification experiments at university  
-- Passed the Applied Information Technology Engineer Exam (awaiting official results)  
-- Learning Next.js and React as part of self-study
+- Experienced in developing a VQA model in a Deep Learning course 
+- Enrolled in a JDLA-certified E資格 prep course (exam scheduled for Jan 2026) 
+- Actively participating in Kaggle and hackathon challenges 
+- Studying for English proficiency exams
 
 ---
 
