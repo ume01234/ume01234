@@ -40,6 +40,7 @@
 ### ○  企業向けホームページ構築支援（2025年・ボランティア）
 - WordPressによるSEO対応のコーポレートサイトを構築し、今夏公開予定
 - レンタルサーバー契約やドメイン移管も含めて一括対応
+- Google Analyticsの結果をレポート化
 - 使用技術：WordPress / HTML / CSS / JavaScript / Swiper / Google Analytics
 
 ---
