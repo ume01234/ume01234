@@ -10,7 +10,7 @@
 ## ✔︎ 技術スタック・スキル
 
 - **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / CASL2  
-- **環境・ツール**：Visual Studio Code / Cursor / GitHub / WordPress / Google Colab
+- **環境・ツール**：Visual Studio Code / Cursor / GitHub / WordPress / Google Colab / Google Analytics
 - **保有資格**：基本情報技術者試験 / 英検準一級  
 
 ---
