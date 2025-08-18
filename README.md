@@ -13,6 +13,8 @@
 - **環境・ツール**：Visual Studio Code / Cursor / GitHub / WordPress / Google Colab / Google Analytics
 - **保有資格**：基本情報技術者試験 / 英検準一級  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ume01234&layout=compact)
+
 ---
 
 ## ✔︎ 主な開発経験・実施プロジェクト
