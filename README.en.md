@@ -9,7 +9,10 @@ My goal is to create new value as a machine learning and AI engineer!
 
 - **Languages**: Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / CASL2  
 - **Tools & Environments**: Visual Studio Code / Cursor / GitHub / WordPress / Google Colab / Google Analytics
-- **Certifications**: Fundamental Information Technology Engineer / Eiken Grade Pre-1  
+- **Certifications**: Fundamental Information Technology Engineer / Eiken Grade Pre-1
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ume01234&layout=compact)
 
 ---
 
