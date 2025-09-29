@@ -15,6 +15,7 @@ My goal is to create new value as a machine learning and AI engineer!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ume01234&layout=compact)
 
 ---
+<!--
 
 ## ✔︎ Major Development Experience & Projects
 
@@ -71,7 +72,7 @@ My goal is to create new value as a machine learning and AI engineer!
 - Sports (soccer / tennis / skiing / volleyball)  
 - Traveling
 
----
+-->
 
 ## ✔︎ Contact
 
