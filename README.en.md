@@ -7,7 +7,7 @@ My goal is to create new value as a machine learning and AI engineer!
 
 ## ✔︎ Technical Stack & Skills
 
-- **Languages**: Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / CASL2  
+- **Languages**: Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R   
 - **Tools & Environments**: Visual Studio Code / Cursor / GitHub / WordPress / Google Colab / Google Analytics
 - **Certifications**: Fundamental Information Technology Engineer / Eiken Grade Pre-1
 
