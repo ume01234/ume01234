@@ -9,9 +9,9 @@
 
 ## ✔︎ 技術スタック・スキル
 
-- **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R  
+- **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / TypeScript
 - **環境・ツール**：VS Code / Cursor / GitHub / WordPress / Google Colab / Google Analytics
-- **保有資格**：基本情報技術者 / 英検準一級  
+- **保有資格**：基本情報技術者 / 英検準一級  /
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ume01234&layout=compact)
 
