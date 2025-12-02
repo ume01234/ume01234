@@ -18,9 +18,9 @@
 ---
 
 ## ✔︎ 外部リンク
-ポートフォリオサイト：https://z-ume01234.pages.dev/
-Medium：https://medium.com/@zume2.dev
-Zenn：https://zenn.dev/sunlight_white
+- ポートフォリオサイト：https://z-ume01234.pages.dev/
+- Medium：https://medium.com/@zume2.dev
+- Zenn：https://zenn.dev/sunlight_white
 
 ---
 
