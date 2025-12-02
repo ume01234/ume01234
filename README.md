@@ -17,6 +17,15 @@
 
 ---
 
+## ✔︎ 外部リンク
+ポートフォリオサイト：https://z-ume01234.pages.dev/
+Medium：https://medium.com/@zume2.dev
+Zenn：https://zenn.dev/sunlight_white
+
+---
+
+
+
 <!--
 ## ✔︎ 主な開発経験・実施プロジェクト
 
