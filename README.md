@@ -20,7 +20,6 @@
 - ポートフォリオサイト：https://z-ume01234.pages.dev/
 - Medium：https://medium.com/@zume2.dev
 - Zenn：https://zenn.dev/sunlight_white
-- ![](https://komarev.com/ghpvc/?username=ume01234 &color=grey)
 
 ---
 
