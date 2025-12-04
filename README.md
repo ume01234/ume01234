@@ -4,7 +4,7 @@
 
 筑波大学情報学群メディア創成学類3年の学生エンジニアです。  
 機械学習エンジニアやAIエンジニア、データアナリストとして、新しい価値を生み出すことを目指しています！
-![](https://komarev.com/ghpvc/?username=ume01234 &color=grey)
+
 ---
 
 ## ✔︎ 技術スタック・スキル
@@ -20,6 +20,7 @@
 - ポートフォリオサイト：https://z-ume01234.pages.dev/
 - Medium：https://medium.com/@zume2.dev
 - Zenn：https://zenn.dev/sunlight_white
+- ![](https://komarev.com/ghpvc/?username=ume01234 &color=grey)
 
 ---
 
