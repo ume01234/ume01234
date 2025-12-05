@@ -13,7 +13,8 @@
 - **環境・ツール**：VS Code / Cursor / WordPress / Google Colab / Google Analytics
 - **保有資格**：基本情報技術者 / 英検準一級  /
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ume01234&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ume01234&layout=compact)](https://github.com/ume01234/github-readme-stats)
+
 ---
 
 ## ✔︎ 外部リンク
