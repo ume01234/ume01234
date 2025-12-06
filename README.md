@@ -9,7 +9,7 @@
 
 ## ✔︎ 技術スタック・スキル
 
-- **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / TypeScript
+- **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / TypeScript / Dart
 - **環境・ツール**：VS Code / Cursor / WordPress / Google Colab / Google Analytics
 - **保有資格**：基本情報技術者 / 英検準一級  /
 
