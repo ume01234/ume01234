@@ -13,6 +13,7 @@ With a background in AI, data analysis, and software development, I focus on bri
 
 ## ✔︎ External Links
 - Portfolio Site：https://z-ume01234.pages.dev/
+- LinkedIn：www.linkedin.com/in/rikuto-h-aa316137a
 - Medium：https://medium.com/@zume2.dev
 - Zenn：https://zenn.dev/sunlight_white
 
