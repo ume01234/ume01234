@@ -1,6 +1,6 @@
 # Rikuto Hashizume | 橋爪 陸人
 
-University of Tsukuba B3 (Digital Nature Group)
+University of Tsukuba B3 (Digital Nature Group)  
 With a background in AI, data analysis, and software development, I focus on bridging technology and valuable products.
 
 ---
