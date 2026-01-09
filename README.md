@@ -18,6 +18,8 @@ With a background in AI, data analysis, and software development, I focus on bri
 
 ---
 
+## ✔︎ Contact
+- zume2.dev@gmail.com
 
 
 <!--
@@ -69,6 +71,4 @@ With a background in AI, data analysis, and software development, I focus on bri
 - 旅行
 -->
 
-## ✔︎ 連絡先
-- zume2.dev@gmail.com
 
