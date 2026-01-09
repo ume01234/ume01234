@@ -1,24 +1,18 @@
 # Rikuto Hashizume | 橋爪 陸人
 
-> [View English version](./README.en.md)
-
-筑波大学情報学群メディア創成学類3年の学生エンジニアです。  
-機械学習エンジニアやAIエンジニア、データアナリストとして、新しい価値を生み出すことを目指しています！
+University of Tsukuba B3 (Digital Nature Group)
+With a background in AI, data analysis, and software development, I focus on bridging technology and valuable products.
 
 ---
 
-## ✔︎ 技術スタック・スキル
-
-- **言語**：Python / Ruby / C / HTML / CSS / JavaScript / MySQL / R / TypeScript / Dart
-- **環境・ツール**：VS Code / Cursor / WordPress / Google Colab / Google Analytics
-- **保有資格**：基本情報技術者 / 英検準一級  /
+## ✔︎ Technical Stack
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ume01234&layout=compact)](https://github.com/ume01234/github-readme-stats)
 
 ---
 
-## ✔︎ 外部リンク
-- ポートフォリオサイト：https://z-ume01234.pages.dev/
+## ✔︎ External Links
+- Portfolio Site：https://z-ume01234.pages.dev/
 - Medium：https://medium.com/@zume2.dev
 - Zenn：https://zenn.dev/sunlight_white
 
